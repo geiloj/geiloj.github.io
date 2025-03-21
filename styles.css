@@ -41,6 +41,7 @@ input, label, button{
 }
 #out{
     font-weight: bold;
+    max-width: 30rem;
 }
 #bild{
     max-width: 25rem;
